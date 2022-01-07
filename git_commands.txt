@@ -14,3 +14,9 @@ git clone - просто клон проекта из удаленного се�
 
 git config --global user.name'tabapy'
 git config --global user.email tababinc2021@gmail.com
+
+git push origin master  -  отправка всех локальных коммитов на удаленный репоризорий
+
+
+
+
