@@ -12,4 +12,4 @@ git remote add origin git@github.com:tabapy/python16.git
 
 git clone - просто клон проекта из удаленного сервера Github
 
-dfdd
+dfddhgfhg
